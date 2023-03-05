@@ -1,1 +1,2 @@
 This was created remotly
+This entry is from the local repo
